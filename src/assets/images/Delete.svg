@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="32px" viewBox="0 0 24 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>DashboardIcon/Delete</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="30_Dashboard_Main-dashboard" transform="translate(-1357.000000, -1205.000000)">
+            <g id="Group-6" transform="translate(30.000000, 87.000000)">
+                <g id="DashboardIcon/Delete" transform="translate(1319.000000, 1114.000000)">
+                    <g id="Icon/Input/Delete/Black-Copy">
+                        <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="40" height="40"></rect>
+                        <path d="M10,11.25 L30,11.25 L27.1530116,33.75 L12.7085671,33.75 L10,11.25 Z M12.5,6.25 L27.5,6.25 L12.5,6.25 Z" id="Combined-Shape" stroke="#ED4134" stroke-width="2.51999998" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

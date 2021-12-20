@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icon/Edit_White</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9_Site_Parameters" transform="translate(-1339.000000, -639.000000)" stroke="#FFFFFF">
+            <g id="Icon/Edit_White" transform="translate(1340.000000, 639.000000)">
+                <path d="M11.3043478,9.99057585 L11.3043478,14.5461314 C11.3043478,15.0370512 10.9428386,15.4350203 10.4968944,15.4350203 L0.807453416,15.4350203 C0.361509208,15.4350203 7.63833441e-14,15.0370512 7.63833441e-14,14.5461314 L7.63833441e-14,4.76835362 C7.63833441e-14,4.27743385 0.361509208,3.87946473 0.807453416,3.87946473 L5.65217391,3.87946473" id="Path-Copy" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M6.50511562,0.206261382 L6.6271129,11.3819884 L8.34887019,13.1018205 L10.0181881,11.4345381 L9.89602216,0.243362579 L6.50511562,0.206261382 Z" id="Rectangle-Copy" transform="translate(8.260011, 6.754607) rotate(42.000000) translate(-8.260011, -6.754607) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
